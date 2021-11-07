@@ -1,2 +1,2 @@
 # AppliedDeepLearningTensorFlow
-Notebooks with different TensorFlow models 
+Notebooks with different TensorFlow models and some datafiles 
